@@ -1,5 +1,5 @@
 {
-    "name": "timiki/rpc-server-bundle",
+    "name": "timiki/rpc-server-bundle-1",
     "type": "symfony-bundle",
     "description": "JSON-RPC server bundle for symfony",
     "keywords": [
@@ -30,7 +30,7 @@
         "symfony/security-core": "^4.1",
         "symfony/console": "^4.1",
         "doctrine/annotations": "^1.6",
-        "doctrine/cache": "^1.8"
+        "doctrine/cache": "1.7.*"
     },
     "require-dev": {
         "symfony/phpunit-bridge": "~3.3|~4.0",
